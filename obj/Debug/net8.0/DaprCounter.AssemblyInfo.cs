@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaprCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705217c9ad5742e622424b84e7a4553618f50cf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaprCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaprCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

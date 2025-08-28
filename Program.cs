@@ -16,7 +16,7 @@ class Program
         {
             Console.WriteLine($"Counter = {counter++}");
             await daprClient.SaveStateAsync(storeName, key, counter);
-            await Task.Delay(1000);
+            await Task.Delay(10000);
         }
     }
 }
